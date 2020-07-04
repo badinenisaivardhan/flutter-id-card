@@ -1,8 +1,10 @@
 # Sample Id Card Using Flutter 
 A new Flutter project.
 
+# Sample Screenhot
+
+
 ## Getting Started
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 This project is a starting point for a Flutter application.
 
