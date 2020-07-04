@@ -2,8 +2,8 @@
 A new Flutter project.
 
 # Sample Screenhot
-
-https://github.com/badinenisaivardhan/flutter-id-card/blob/master/assets/screenshot.png
+![Image of ScreenShot](https://github.com/badinenisaivardhan/flutter-id-card/blob/master/assets/screenshot.png
+)
 
 ## Getting Started
 
